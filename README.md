@@ -2,7 +2,7 @@
 <h2>Arduino Projects:</h2>
   
 - [Nicaragua School Door Security System](https://github.com/dkang1630/NicaraguaSchoolSecurity)
-- [Polar Mapping Device](https://github.com/dkang1630/PolarMap/blob/main/README.md)
+- [Polar Mapping Device](https://github.com/dkang1630/PolarMap)
 
 <h2>UT Austin Robotics Lab Projects</h2>
 
