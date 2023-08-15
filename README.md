@@ -1,8 +1,7 @@
 <h1>Hi, I'm Daniel! <br/>
 <h2>Arduino Projects:</h2>
-
-- <b>Nicaragua School Security</b>
-  - [Door Security System](https://github.com/dkang1630/NicaraguaSchoolSecurity)
+  
+- [Nicaragua School Door Security System](https://github.com/dkang1630/NicaraguaSchoolSecurity)
 
 <h2>UT Austin Robotics Lab Projects</h2>
 
