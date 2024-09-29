@@ -1,4 +1,9 @@
 <h1>Hi, I'm Daniel! <br/>
+<h2>ML/DL</h2>
+
+- [Conductor Image Classification]([https://github.com/dkang1630/NicaraguaSchoolSecurity](https://github.com/dkang1630/Conductor_Image_Classification.git))
+- [Oral Temperature Screening Linear Regression Model]([https://github.com/dkang1630/NicaraguaSchoolSecurity](https://github.com/dkang1630/facial-and-oral-temperature-screening-Linear-Regression-Machine-Learning-Model.git))
+  
 <h2>Arduino Projects</h2>
   
 - [Nicaragua School Door Security System](https://github.com/dkang1630/NicaraguaSchoolSecurity)
